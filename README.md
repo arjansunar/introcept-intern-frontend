@@ -1,47 +1,25 @@
-# React + Tailwindcss + TypeScript + Vite Starter Template
+# Get started
 
-![React + Tailwindcss + TypeScript + Vite Starter Template](public/react-tailwindcss-typescript-vite-template.png)
-
-This is a starter template for React + Tailwindcss + TypeScript + Vite.
-
-### Project Structure
-
-![React + Tailwindcss + TypeScript + Vite Starter Template File Structure](public/Files.png)
-
-## How to use this template?
-
-### Use Templete
-
-You can use this template by just creating a new repo with this template by clicking on the "Use this template" button.
-
-![Use-Template-Screenshot](public/Use-Template-Screenshot.png)
-
-### Clone this repo
-
-You can also clone this repo.
+## Clone the repo
 
 ```bash
-git clone https://github.com/rohid-hub/react-tailwindcss-typescript-vite-template.git
+git clone https://github.com/arjansunar/introcept-intern-frontend.git
 ```
 
-## Installation
-
-After cloning the repo go to the directory and run
+## Install the dependencies
 
 ```bash
-yarn
+cd introcept-intern-frontend
+npm i
 ```
 
-Then run the dev server by running
+## Run the vite server
 
 ```bash
-yarn dev
+# for development
+npm run dev
+
+# for production
+npm run build
+npm run serve
 ```
-
-After this go to `htpp://localhost:3000` and you should see this screen.
-
-![React + Tailwindcss + TypeScript + Vite Starter Template](public/react-tailwindcss-typescript-vite-template.png)
-
-If this repo helps you then please don't forget to give this repo a star ☺️
-
-Thank you
