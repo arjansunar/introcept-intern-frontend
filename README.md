@@ -23,3 +23,7 @@ npm run dev
 npm run build
 npm run serve
 ```
+
+## :idea: **Note**
+
+Check here for the [general questions](./general_questions.md)
