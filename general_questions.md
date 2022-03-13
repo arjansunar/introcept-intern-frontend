@@ -1,4 +1,4 @@
-## General Questions
+# General Questions
 
 1. What excites or interests you about coding? What did you learn this week?
    > Exploring different problems and solving it is what excites me about coding. It feels like a game of puzzle and writing code is like finding a new path to a goal in a puzzle. This week I learnt about authentication and authorization with JWT in Nest js.
